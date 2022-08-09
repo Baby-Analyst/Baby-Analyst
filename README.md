@@ -5,10 +5,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
- ### Hey there!
-👋 I’m *Ifedayo*, a data analyst in Lagos, Nigeria.
-👀 I make use of tools like Python,  [Power BI](https://powerbi.microsoft.com/en-au/), [SQL](https://www.r-project.org/), [Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel), [Tableau](https://www.tableau.com/), and [R](https://www.r-project.org/) to clean data, find useful insights and visualise data. 
-
-💞️ I’m looking to collaborate on interesting projects with people.
-📫 You can reach me through <ayilaranifedayo@gmail.com>
-😇 I look forward to working on different projects and showcasing them here.
+ ### Hello there!
+ My name is Ifedayo, a data analyst. I'm focused on providing solutions to businesses through advanced analytics. 
+ My major interests are in Sales and Marketing, People and Culture, Healthcare and Finance.
+ However, I'm open to collaborating on projects in various industries. 
+ I make use of tools like Python, R, SQL, Excel, Power BI/Tableau, and version control to analyze large datsets and draw insights. 
+ I’m looking to collaborate on interesting projects with people. I'm also open to exciting job opportunities.
+ Here's a link to my portfolio. 
+ You can reach me through <ayilaranifedayo@gmail.com>
+I look forward to working on different projects and collaborating here.
